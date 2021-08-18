@@ -1,4 +1,4 @@
-![logo](https://repository-images.githubusercontent.com/186841818/8aa95700-7730-11e9-84be-e80f28520325)
+![logo](https://media.discordapp.net/attachments/873514955733884936/877517573309218816/ade4b103f3a5de17b2827fb4267ca34f.png)
 
 
 - 👋 Hi, I’m @Romilchavda
