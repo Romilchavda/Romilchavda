@@ -1,5 +1,6 @@
 ## Romil Chavda
 
+![logo](https://cdn.discordapp.com/avatars/541846473579560980/ade4b103f3a5de17b2827fb4267ca34f.png?size=128)
 
 - 👋 Hi, I’m @Romilchavda
 - 👀 I’m interested in ...
