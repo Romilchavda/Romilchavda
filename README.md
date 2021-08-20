@@ -18,6 +18,6 @@ You can click the Preview link to take a look at your changes.
 # Stats
 <summary><b>GitHub</b> Activity</summary>
 
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Romilchavda&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SudhanPlayz&theme=tokyonight&hide=batchfile">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Romilchavda&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Romilchavdatheme=tokyonight&hide=batchfile">
 
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SudhanPlayz&theme=tokyonight">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Romilchavda&theme=tokyonight">
