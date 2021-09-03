@@ -36,7 +36,7 @@
 
 
 
-![Discord](https://img.shields.io/badge/%3Discord%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
+
 
 ![](https://komarev.com/ghpvc/?username=Romilchavda&style=flat-square)
 
