@@ -37,8 +37,10 @@
 
 <img src="https://discordapp.com/api/guilds/582411886415446036/embed.png" alt="Judge0 server">
 
+</a>
+<img src="https://discordapp.com/api/guilds/620615182116323328/embed.png" alt="Judge0 server">
 
-
+</a>
 
 
 
