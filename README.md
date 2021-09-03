@@ -14,7 +14,7 @@
 
 <br/>
 
-<a href="https://discord.com/users/558639976229765140">
+<a href="https://discord.com/users/541846473579560980">
 
  <img align="left" alt="''                    The_Aslam#6080 Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 
