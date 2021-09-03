@@ -30,7 +30,7 @@
 
 ![Discord](https://discord.c99.nl/widget/theme-2/541846473579560980.png)
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=Romilchavda)](https://github.com/Romilchavda) [![more github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Romilchavda&layout=compact)](https://github.com/Romilchavda) I prefer writing snippets of code than a full-blown project ~~because I am lazy~~.
+[![github stats](https://github-readme-stats.vercel.app/api?username=Romilchavda)](https://github.com/Romilchavda) [![more github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Romilchavda&layout=compact)](https://github.com/Romilchavda) I prefer writing sni
 
 
 
