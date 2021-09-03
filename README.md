@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=Romilchavda&style=flat-square)
+
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm Romilchavda</h1>
 
 <h3 align="center"> </h3>
@@ -38,7 +40,7 @@
 
 
 
-![](https://komarev.com/ghpvc/?username=Romilchavda&style=flat-square)
+
 
 
 
