@@ -35,12 +35,18 @@
 [![github stats](https://github-readme-stats.vercel.app/api?username=Romilchavda)](https://github.com/Romilchavda) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Romilchavda&langs_count=8)](https://github.com/Romilchavda/github-readme-stats)
 
 
-<img src="https://discordapp.com/api/guilds/582411886415446036/embed.png" alt="Judge0 server">
+<a href="https://discord.gg/6dvxeA8">
+
+      <img src="https://discordapp.com/api/guilds/620615182116323328/embed.png" alt="Judge0 server">
 
 </a>
-<img src="https://discordapp.com/api/guilds/620615182116323328/embed.png" alt="Judge0 server">
 
-</a>
+</div>
+
+
+
+
+
 
 
 
