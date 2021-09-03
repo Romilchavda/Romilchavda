@@ -30,7 +30,7 @@
 
 ![Discord](https://discord.c99.nl/widget/theme-2/541846473579560980.png)
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=Romilchavda)](https://github.com/Romilchavda) [![more github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Romilchavda&layout=compact)](https://github.com/Romilchavda) I prefer writing sni
+[![github stats](https://github-readme-stats.vercel.app/api?username=Romilchavda)](https://github.com/Romilchavda) [![more github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Romilchavda&layout=compact)](https://github.com/Romilchavda)
 
 
 
