@@ -18,7 +18,7 @@
 
 <a href="https://discord.com/users/541846473579560980">
 
- <img align="left" alt="''                    The_Aslam#6080 Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+ <img align="left" alt="''                    SIMBAᴿᴮᵒᶠᶠᶦᶜᶦᵃˡ#0642  Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 
 </a>
 
