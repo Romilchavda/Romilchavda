@@ -4,7 +4,7 @@
 
 <h3 align="center"> </h3>
 
-<img align="center" alt="Code_Gif" src="code.gif?raw=true" width="400" height="300" />
+<img align="center" alt="Code_Gif" src="https://media.discordapp.net/attachments/606390451896975362/883310504901218314/code.gif?raw=true" width="400" height="300" />
 
 - 🔭 **I’m currently working on learning full discord.js**
 
