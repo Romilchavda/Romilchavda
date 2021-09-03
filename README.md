@@ -22,13 +22,13 @@
 
 <a href="https://github.com/Aslam555/">
 
-<img align ="left" alt="Aslam Github" width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+<img align ="left" alt="Romilchavda Github" width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 
 </a>
 
 <br/> <br/> 
 
-![Discord](https://discord.c99.nl/widget/theme-3/558639976229765140.png)
+![Discord](https://discord.c99.nl/widget/theme-2/541846473579560980.png)
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=Aslam555)](https://github.com/Aslam555) [![more github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Aslam555&layout=compact)](https://github.com/Aslam555) I prefer writing snippets of code than a full-blown project ~~because I am lazy~~.
 
