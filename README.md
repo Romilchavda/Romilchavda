@@ -16,7 +16,7 @@
 
  <a href="https://discord.gg/DCthtKR"><img align="center" src="https://discordapp.com/api/guilds/582411886415446036/widget.png?style=banner2" alt="Discord Banner2"/></a>
 
-         <br/>
+
 
 <br/>
 
@@ -28,7 +28,7 @@
 
 <a href="https://github.com/Romilchavda/">
 
-<img align ="left" alt="Romilchavda Github" width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+
 
 </a>
 
