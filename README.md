@@ -14,7 +14,6 @@
 
 - ⚡ **Fun fact: I am a noob gamer xD**
 
- <a href="https://discord.gg/DCthtKR"><img align="center" src="https://discordapp.com/api/guilds/582411886415446036/widget.png?style=banner2" alt="Discord Banner2"/></a>
 
 
 
