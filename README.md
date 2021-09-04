@@ -39,8 +39,7 @@
 
 
 
-            <a href="https://discord.gg/gcafe">
-            <img align="center" src="https://discordapp.com/api/guilds/770993454703575060/widget.png?style=banner2" alt="Discord Banner2"/></a>
+            
          
 
 
